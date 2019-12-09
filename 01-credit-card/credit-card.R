@@ -9,7 +9,7 @@
 
 # Definindo a pasta de trabalho
 getwd()
-setwd("D:/DSA/PowerBI-DataScience/Cap10")
+setwd("~/dsa/MSPowerBI/mspowerbitodatascience/01-credit-card")
 
 #################### Pacotes do R ####################
 
