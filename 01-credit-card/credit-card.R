@@ -1,7 +1,6 @@
 #*****************************************************************************
-#
+#                                 Adriano Ferruzzi
 #                         Machine Learning com Linguagem R
-#
 #                               Data Science Academy
 #
 #                       Prevendo a Inadimplência de Clientes
